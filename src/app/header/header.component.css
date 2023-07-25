@@ -13,3 +13,6 @@ a{
 a:hover{
     color:#fdbe70;
 }
+.hover-effect:hover {
+    color: #fdbe70; /* Change this to the desired color */
+  }
